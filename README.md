@@ -1,32 +1,27 @@
 # Packet Tracer Network Design
 
-A Cisco Packet Tracer network simulation created to practise topology design, IP addressing, device configuration, routing, and connectivity testing.
+A Cisco Packet Tracer project demonstrating the design, configuration, and testing of a network topology.
 
-## Project file
+## Project File
 
-The complete simulation is available in [`network-design.pkt`](network-design.pkt).
+The complete simulation is stored in [`projectv2.pkt`](projectv2.pkt).
 
-## Technologies and concepts
+## Skills Demonstrated
 
-- Cisco Packet Tracer
+- Network topology planning
+- Device and interface configuration
 - IPv4 addressing and subnetting
-- Routers and switches
-- End-device configuration
-- Network services and connectivity testing
-- Packet-level simulation and troubleshooting
+- Router and switch configuration
+- Connectivity testing and troubleshooting
+- Cisco Packet Tracer simulation
 
-## Open the simulation
+## Open the Project
 
-1. Install Cisco Packet Tracer.
-2. Clone or download this repository.
-3. Open `network-design.pkt` in Packet Tracer.
-4. Use **Realtime** mode to test connectivity.
-5. Use **Simulation** mode to inspect packets and protocols.
+1. Install [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer).
+2. Download or clone this repository.
+3. Open `projectv2.pkt` in Packet Tracer.
+4. Inspect the topology and use simulation mode to follow packet flow.
 
-## Learning outcomes
+## What I Practiced
 
-This project demonstrates practical network planning, configuration, verification, and troubleshooting in a simulated environment.
-
-## Author
-
-Kiara Bartuccio — Computer Technology student at Vanier College.
+This project strengthened my understanding of network devices, addressing, traffic flow, configuration, and systematic connectivity troubleshooting.
