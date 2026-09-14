@@ -2,6 +2,16 @@
 
 A Cisco Packet Tracer project demonstrating the design, configuration, and testing of a network topology.
 
+## Quick Start
+
+1. Install [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer).
+2. Download and extract this repository.
+3. Launch it:
+   - **Windows:** double-click `open-network.bat`
+   - **macOS/Linux:** run `chmod +x open-network.sh && ./open-network.sh`
+
+The complete topology opens directly in Packet Tracer.
+
 ## Project File
 
 The complete simulation is stored in [`projectv2.pkt`](projectv2.pkt).
