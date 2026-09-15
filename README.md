@@ -56,6 +56,8 @@ During the web access test, clients could not reach the websites even though the
 
 ## Quick Start
 
+HOW I RUN: OPEN FILE ON INSTALLED PACKET TRACER
+
 1. Install [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer).
 2. Download or clone this repository.
 3. Launch the project:
